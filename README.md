@@ -9,8 +9,8 @@
 + Download a recent version of Anaconda, with Python 3.7+
 + Clone the repo and unzip the Awake Labs data sample
 + Start Jupyter Notebook/Anaconda 3 and import the unzipped .json file and the .ipynb file
-+ Open the .ipynb file to run the Jupyter Notebook locally
-+ Make your changes and then run the notebook cells. Note that the othering of the cells means that some data needn't be refreshed after every change.
++ Open the .ipynb file to run your notebook locally
++ Make your changes and then run the relevant notebook cells. Note that the ordering of the cells means that some data needn't be refreshed after every change.
 
 **Specification:**
 
