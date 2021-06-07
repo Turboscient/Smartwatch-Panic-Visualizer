@@ -1,10 +1,10 @@
 # Smartwatch-Panic-Visualizer
 
-Instructions to view notebook (without changing input values):
+**Instructions to view notebook (without changing input values):**
 
 + Open the .ipynb file in GitHub and it will render the static notebook
 
-Instructions to customize data:
+**Instructions to customize data:**
 
 + Download a recent version of Anaconda, with Python 3.7+
 + Clone the repo and unzip the Awake Labs data sample
@@ -12,7 +12,7 @@ Instructions to customize data:
 + Open the .ipynb file to run the Jupyter Notebook locally
 + Make your changes and then run the notebook cells. Note that the othering of the cells means that some data needn't be refreshed after every change.
 
-Specification:
+**Specification:**
 
 ![spec_1](https://github.com/Turboscient/Smartwatch-Panic-Visualizer/blob/main/Software%20Dev%20Intern%20Coding%20Challenge.docx-1.png)
 ![spec_2](https://github.com/Turboscient/Smartwatch-Panic-Visualizer/blob/main/Software%20Dev%20Intern%20Coding%20Challenge.docx-2.png)
